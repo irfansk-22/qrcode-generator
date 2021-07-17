@@ -1,2 +1,2 @@
-# Make a qrcode-generator under 5 minutes
+# Build a qrcode-generator under 5 minutes
 
